@@ -81,8 +81,7 @@ Team        : NAKATAMA
 
 <div align="center">
 
-<img src="https://github-profile-trophy-winning.vercel.app/?username=madewindu16&theme=radical&no-frame=true&row=1&column=7" />
-
+<img src="https://github-profile-trophy-kannan.vercel.app/?username=madewindu16&theme=radical&no-frame=true&row=1&column=7" />
 <br/><br/>
 
 <picture>
