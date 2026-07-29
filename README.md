@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:ff00ff,100:00ffff&height=200&section=header&text=WINDU&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:ff00ff,100:00ffff&height=200&section=header&text=I%20MADE%20WINDU&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
 <br/>
 
