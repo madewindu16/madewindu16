@@ -4,8 +4,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="250"/>
-
+<img src="https://raw.githubusercontent.com/madewindu16/madewindu16/main/walking-character.svg" width="500"/>
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=1000&color=00FFFF&background=00000000&center=true&vCenter=true&width=700&lines=Informatics+Management+Student;Building+Web+Apps+with+React+%26+PHP;Currently+Developing+SomniaCare" alt="Typing SVG" />
