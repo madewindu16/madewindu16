@@ -74,14 +74,16 @@ Team        : NAKATAMA
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=madewindu16" />
+<img src="https://github-profile-trophy-kannan.vercel.app/?username=madewindu16&theme=radical&no-frame=true&row=1&column=7" />
+
 </div>
 
 <br/>
 
 <div align="center">
 
-<img src="https://github-profile-trophy-kannan.vercel.app/?username=madewindu16&theme=radical&no-frame=true&row=1&column=7" />
+<img src="https://img.shields.io/badge/ACTIVITY-000000?style=for-the-badge&logo=githubactions&logoColor=00ffff&labelColor=0d0221"/>
+
 <br/><br/>
 
 <picture>
