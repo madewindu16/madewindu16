@@ -70,11 +70,11 @@ Team        : NAKATAMA
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ACHIEVEMENTS-000000?style=for-the-badge&logo=trophy&logoColor=ff00ff&labelColor=0d0221"/>
+<img src="https://img.shields.io/badge/DAILY_QUOTE-000000?style=for-the-badge&logo=quantconnect&logoColor=ff00ff&labelColor=0d0221"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy-kannan.vercel.app/?username=madewindu16&theme=radical&no-frame=true&row=1&column=7" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
 </div>
 
